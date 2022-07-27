@@ -6,6 +6,8 @@ require 'includes/dbconnect.php';
 <!DOCTYPE html>
 <html lang="fr">
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1817031777630464" crossorigin="anonymous"></script>
+
     <head>
 
         <meta charset="utf-8">
